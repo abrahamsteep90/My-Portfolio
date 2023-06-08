@@ -71,7 +71,7 @@
     <li><strong>Address:</strong> Kingston upon Hull, UK</li>
     <li><strong>Phone:</strong> &#9742; +44-7443855025</li>
     <li><strong>Email:</strong> &#9993; abrahamyalcin@outlook.com</li>
-    <li><strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/ibraham">&#128279; ibraham</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/abraham-yalcin">&#128279; ibraham</a></li>
     <li><strong>GitHub:</strong> <a href="https://github.com/abrahamsteep90">&#128187; abrahamsteep90</a></li>
     <li><strong>CV:</strong> <a href="https://abrahamsteep90.github.io/CV/">View my CV</a></li>
   </ul>
